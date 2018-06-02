@@ -1,0 +1,8 @@
+{
+  "modid": "deckbuilder",
+  "name": "Deck Builder",
+  "author_list": ["ztbrown"],
+  "description": "Gives winrates, +/- and tier information for cards",
+  "version": "0.0.1",
+  "mts_version": "2.6.0"
+}
